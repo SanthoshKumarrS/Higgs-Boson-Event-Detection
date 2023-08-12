@@ -1,4 +1,4 @@
-****Higgs-Boson-Event-Detection****
+**Higgs-Boson-Event-Detection**
 
 I have worked on a Higgs boson event detection project in this repository to identify provided data as signal or noise. CERN released this dataset in 2014, based on an official ATLAS full-detector simulation.
 
