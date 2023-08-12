@@ -18,6 +18,7 @@ Notebook/: Jupyter notebooks detailing data exploration, preprocessing, and mode
 Model/: Saved models with their architecture and weights.
 
 ***Project Highlights***
+
 **Data Visualization**: The initial step involved exploring the dataset through insightful visualizations. Using Python libraries like Matplotlib and Seaborn, we gained a deep understanding of the data's distribution, correlations, and potential patterns.
 
 **Data Preprocessing**: Prior to model training, we performed data preprocessing techniques to ensure high-quality input. This included handling missing values, scaling features, and encoding categorical variables.
